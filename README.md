@@ -1,3 +1,3 @@
 # Statewide
 Statewide Content management
- - app folder containd cms content files
+ - app folder contains cms content files
